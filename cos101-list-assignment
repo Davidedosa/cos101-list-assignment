@@ -1,0 +1,16 @@
+#List Assignment
+first_name="David"
+middle_name="Aiseosa"
+last_name="edosa"
+matric_num="Bhu/24/04/10/0016"
+
+List=[1,2,3,4,5,6,7,8,9,10]
+list_sum= 0
+for number in list:
+    list_sum =+ number
+    print(List_sum)
+
+ #another method of reverse function
+ for i in range(lenlist)):
+      list.insert.(i,list.pop())
+      print (i,list)
